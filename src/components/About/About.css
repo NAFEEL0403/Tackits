@@ -1,0 +1,41 @@
+.abt{
+    width: 100%;
+    min-height: 100vh;
+    background:linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)),url('../../assets/abt-img.gif');
+    background-size:cover;
+    background-position:center;
+    color:#fff;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    animation:float 3s ease-in-out infinite;
+    background-size: cover;
+}
+@keyframes float {
+    0% {
+        transform: translatey(0px);
+    }
+    50% {
+        transform: translatey(-20px);
+    }
+    100% {
+        transform: translatey(0px);
+    }
+}
+.abt-content ul li{
+    list-style: none;
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 25px;
+    font-style: oblique;
+    color:rgb(47, 223, 220);
+    padding:10px;
+}
+.abt-content ul button{
+    margin-top: 100px; 
+}
+.abt-content p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color:rgb(84, 227, 93)
+}

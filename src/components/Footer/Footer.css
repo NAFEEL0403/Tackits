@@ -1,0 +1,56 @@
+.footer{
+    background-color: blue;
+    color:black;
+    padding:40px 20px;
+
+}
+
+
+.footer-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    gap:30px;
+   
+}
+.footer-content div{
+    flex:1;
+    min-width:220px;
+}
+.footer-content h4{
+    margin-bottom:20px;
+}
+.footer-content p, .footer-content a{
+    color:white;
+    text-decoration: none;
+    line-height: 1.8;
+}
+.footer-content a:hover{
+    color:black;
+    text-decoration: underline;
+}
+.newsletter input{
+    width:100%;
+    padding:8px;
+    margin:8px 0;
+    border:none;
+    border-radius:44px;
+}
+.link ul li{
+    list-style:none;
+}
+
+.newsletter button{
+    border-radius:50px;
+    color:black;
+    background:blueviolet;
+    padding:10px;
+    border:none;
+    cursor:pointer;
+
+}
+.newsletter button:hover{
+    color:white;
+    background: red;
+}
