@@ -1,16 +1,115 @@
-# React + Vite
+# Tackits Technologies Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive company website developed as part of my internship at **Tackits Technologies**. The website showcases the company's IT services, business solutions, and contact information with a clean and user-friendly interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://nafeel0403.github.io/Tackits/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📖 About the Project
 
-## Expanding the ESLint configuration
+This project was developed to create a professional online presence for Tackits Technologies. The website provides visitors with information about the company's services, business solutions, and contact details while maintaining a modern and responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Responsive design for desktop and mobile devices
+- Modern landing page with hero section
+- Services section highlighting company offerings
+- About Us section
+- Contact information
+- Newsletter subscription section
+- Clean and user-friendly navigation
+- Smooth scrolling between sections
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+
+---
+
+## 📂 Project Structure
+
+```
+Tackits/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│    ├── images/
+│    ├── icons/
+│    └── logo/
+```
+
+---
+
+## 🚀 Services Included
+
+- Annual Maintenance Contract (AMC)
+- Business Software Solutions
+- Custom Application Development
+- CRM Solutions
+- ERP Solutions
+- HRM Solutions
+- IT Hardware Sales & Support
+
+---
+
+## 🎯 Objectives
+
+- Build a professional business website
+- Improve user experience with a clean interface
+- Ensure responsiveness across devices
+- Showcase company services effectively
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+(Add homepage screenshot)
+
+### Services Section
+
+(Add services screenshot)
+
+### Contact Section
+
+(Add contact screenshot)
+
+---
+
+## 📈 Future Enhancements
+
+- Dark Mode
+- Contact Form Validation
+- Live Chat Integration
+- Service Details Page
+- Animations
+- SEO Optimization
+
+---
+
+## 👨‍💻 Developed By
+
+**Nafeel Aohamed N**
+
+Software Engineering Intern
+
+GitHub: https://github.com/nafeel0403
+
+
+---
+
+## 📄 License
+
+This project was developed as part of an internship at **Tackits Technologies** for learning and demonstration purposes.
